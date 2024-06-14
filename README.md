@@ -25,6 +25,13 @@ Before you begin, ensure you have met the following requirements:
 - An Azure account with access to the Text Analytics API
 - Required Python libraries installed (`pandas`, `plotly`, `dash`, `azure-ai-textanalytics`, `python-dotenv`)
 
+## Set up your .env to store your credentials
+# .env
+```bash
+AI_SERVICE_ENDPOINT=your_endpoint
+AI_SERVICE_KEY=your_api_key
+``
+
 ## Getting Started
 
 Follow these steps to set up and run the project.
